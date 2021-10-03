@@ -1,0 +1,32 @@
+{
+  "cricket": [
+    {
+      "name": "Mahendra Singh Dhoni",
+      "username": "mahi sir",
+      "email": "mahendra07singh@gmail.com",
+      "phone": "9698983442",
+      "id": 1
+    },
+    {
+      "name": "Suresh Raina",
+      "username": "Raina sir",
+      "email": "sureshraina@gmail.com",
+      "phone": "3256789012",
+      "id": 2
+    },
+    {
+      "name": "Hardik Panday",
+      "username": "Pandaya",
+      "email": "hardikpanday@gmail.com",
+      "phone": "2345678901",
+      "id": 4
+    },
+    {
+      "name": "Umesh Yadav",
+      "username": "Umesh",
+      "email": "Umesh@gmail.com",
+      "phone": "1234567890",
+      "id": 5
+    }
+  ]
+}
